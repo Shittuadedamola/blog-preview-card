@@ -1,9 +1,11 @@
-
+import illustration from "../assets/illustration-article.svg";
 
 const Header = () => {
   return (
     <>
-      <h1>Hello there</h1>
+      <div>
+        <img src={illustration} alt="" />
+      </div>
     </>
   )
 }
