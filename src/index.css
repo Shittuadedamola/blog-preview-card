@@ -17,7 +17,21 @@
   background-color: white;
   border: 1px solid black;
   border-radius: 20px;
-  padding: 20px;
+  padding: 30px;
   margin: 20px;
   box-shadow: 5px 5px 0px #000;
+}
+
+.illustrationPicCont{
+  margin-bottom: 25px;
+  border-radius: 20px;
+}
+
+.learning{
+  background-color: #F5D04E;
+  font-weight: bold;
+  font-size: 25px;
+  padding: 10px;
+  border-radius: 10px;
+  width: fit-content;
 }

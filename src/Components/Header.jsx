@@ -4,7 +4,10 @@ const Header = () => {
   return (
     <>
       <div>
-        <img src={illustration} alt="" />
+        <img src={illustration} alt="" className="illustrationPicCont"/>
+      </div>
+      <div className="learning">
+        Learning
       </div>
     </>
   )
