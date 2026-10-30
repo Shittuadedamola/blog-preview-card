@@ -2,9 +2,9 @@
 
 const Header = () => {
   return (
-    <div className="">
-
-    </div>
+    <>
+      <h1>Hello there</h1>
+    </>
   )
 }
 

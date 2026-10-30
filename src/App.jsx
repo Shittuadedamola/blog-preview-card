@@ -12,7 +12,9 @@ function App() {
 
   return (
     <div className="body">
-      <Header/>
+      <div className='mainContainer'>
+        <Header/>
+      </div>
     </div>
   )
 }
