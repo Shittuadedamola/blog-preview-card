@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div>
         <h2>HTML & CSS foundations</h2>
-        <span>These languages are the backbone of every
+        <span className='aboutSpan'>These languages are the backbone of every
             website, defining structure, content, and presentation.
         </span>
     </div>

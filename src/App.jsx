@@ -5,6 +5,7 @@ import viteLogo from './assets/vite.svg'
 import './App.css'
 import Header from './Components/Header'
 import About from './Components/About'
+import Avatar from './Components/Avatar'
 
 
 
@@ -16,6 +17,7 @@ function App() {
       <div className='mainContainer'>
         <Header/>
         <About/>
+        <Avatar/>
       </div>
     </div>
   )

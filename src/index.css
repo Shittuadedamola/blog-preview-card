@@ -42,7 +42,24 @@ h2{
   margin-bottom: 30px;
 }
 
-span{
+.aboutSpan{
   color: gray;
+  font-size: 20px;
+}
+
+.avatarCon{
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.avatarCon img{
+  width: 50px;
+  height: 50px;
+  margin-right: 20px;
+}
+
+.avatarCon span{
+  font-weight: bold;
   font-size: 20px;
 }
