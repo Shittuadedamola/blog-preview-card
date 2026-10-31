@@ -30,9 +30,19 @@
 .learning{
   background-color: #F5D04E;
   font-weight: bold;
-  font-size: 25px;
+  font-size: 20px;
   padding: 10px;
   border-radius: 10px;
   width: fit-content;
   margin-bottom: 25px;
+}
+
+h2{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+span{
+  color: gray;
+  font-size: 20px;
 }
