@@ -9,6 +9,7 @@ const Header = () => {
       <div className="learning">
         Learning
       </div>
+      <p>Published 21 Dec 2023</p>
     </>
   )
 }
